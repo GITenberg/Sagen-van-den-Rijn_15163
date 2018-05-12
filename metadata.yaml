@@ -1,0 +1,27 @@
+_repo: Sagen-van-den-Rijn_15163
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 15163-h/img/cover.jpg
+creator:
+  author:
+    agent_name: Ruland, Wilhelm
+    birthdate: 1869
+    deathdate: 1927
+    gutenberg_agent_id: '5897'
+    url: http://www.gutenberg.org/2009/agents/5897
+description: ''
+gutenberg_issued: '2005-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15163'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Legends -- Rhine River'
+- !lcsh 'Legends -- Rhine River Valley'
+title: Sagen van den Rijn
+url: http://www.gutenberg.org/ebooks/15163
